@@ -1,26 +1,23 @@
 # 🧾 Gerador e Validador de CNPJs
 
 Este projeto é uma ferramenta **CLI (Command-Line Interface)** para gerar e validar CNPJs — nos formatos **alfanumérico**, **numérico**, **com pontuação** ou **sem pontuação**.  
-Permite gerar CNPJs válidos, inválidos, exibi-los no terminal e salvar em arquivo JSON. Também é possível validar CNPJs fornecidos pelo usuário.
+Permite gerar CNPJs válidos, exibi-los no terminal e salvar em arquivo JSON. Também é possível validar CNPJs fornecidos pelo usuário.
 
 ---
 
-## 📚 **Índice**
-1. [Pré-requisitos](#pré-requisitos)
-2. Instalação
-3. [Como Usar](#comometros Disponíveis
-5. Exemplos de Uso
-6. Estrutura do Projeto
+## 📚 Índice
+1. [Pré-requisitos](#-pré-requisitosinstalaar](#️-como-usar Disponíveis](#-parâlos de Uso
+6. [Estrutura do Projeto](#-estrutura-do-projeto)
 7. Contribuição
 8. Licença
-9. [Feito por](#feito-⚙️ **Pré-requisitos**
+9. [Feito por](#-feito-️ Pré-requisitos
 
 - Node.js **v12.0.0 ou superior**
 - Acesso ao terminal / prompt de comando
 
 ---
 
-## 📦 **Instalação**
+## 📦 Instalação
 
 1. **Clone o repositório:**
    ```bash
@@ -44,7 +41,7 @@ Pronto! O projeto não possui dependências externas — você já pode usar o s
 
 ---
 
-## ▶️ **Como Usar**
+## ▶️ Como Usar
 
 O script principal é o arquivo **generate.js**.  
 Execute:
@@ -55,7 +52,7 @@ node generate.js [opções]
 
 ---
 
-## 🛠️ **Parâmetros Disponíveis**
+## 🛠️ Parâmetros Disponíveis
 
 | Parâmetro | Descrição | Valor Padrão |
 |----------|-----------|---------------|
@@ -70,7 +67,7 @@ node generate.js [opções]
 
 ---
 
-## 🧪 **Exemplos de Uso**
+## 🧪 Exemplos de Uso
 
 ### 1️⃣ Gerar CNPJs
 ```bash
@@ -136,7 +133,7 @@ Resultado esperado:
 
 ---
 
-## 📂 **Estrutura do Projeto**
+## 📂 Estrutura do Projeto
 
 ```
 cnpj-generator/
@@ -147,7 +144,7 @@ cnpj-generator/
 
 ---
 
-## 🤝 **Contribuição**
+## 🤝 Contribuição
 
 Contribuições são bem-vindas!  
 Para colaborar:
@@ -169,21 +166,17 @@ Para colaborar:
 
 ---
 
-## 📄 **Licença**
+## 📄 Licença
 
 Este projeto está licenciado sob a licença **MIT**.  
 Você pode usar, modificar e distribuir livremente com a devida atribuição.
 
 ---
 
-## ✍️ **Feito por**
+## ✍️ Feito por
 ```
 =============================
 Feito por *** ALVARO *** com IA  
 Versão: 1.0.0
 =============================
 ```
-
-``
-
-
