@@ -115,7 +115,6 @@ Este projeto está licenciado sob a licença MIT. Você pode usar, modificar e d
 ---
 
 ✍️ Feito por
-=============================
 Feito por *** ALVARO *** com IA  
 Versão: 1.0.0
-=============================
+
