@@ -1,7 +1,7 @@
 # 🧾 Gerador e Validador de CNPJs
 
 Este projeto é uma ferramenta **CLI (Command-Line Interface)** para gerar e validar CNPJs — nos formatos **alfanumérico**, **numérico**, **com pontuação** ou **sem pontuação**.  
-Permite gerar CNPJs válidos, exibi-los no terminal e salvar em arquivo JSON. Também é possível validar CNPJs fornecidos pelo usuário.
+Permite gerar CNPJs válidos, inválidos, exibi-los no terminal e salvar em arquivo JSON. Também é possível validar CNPJs fornecidos pelo usuário.
 
 ---
 
@@ -185,4 +185,5 @@ Versão: 1.0.0
 ```
 
 ``
+
 
