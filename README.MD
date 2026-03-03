@@ -119,3 +119,4 @@ Feito por ALVARO com IA
 Versão: 1.0.0
 
 
+
