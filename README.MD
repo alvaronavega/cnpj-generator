@@ -24,7 +24,7 @@ Permite gerar CNPJs válidos, exibi-los no terminal e salvar em arquivo JSON. Ta
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/cnpj-generator.git
+   git clone https://github.com/alvaronavega/cnpj-generator.git
    ```
 
 2. **Acesse o diretório do projeto:**
@@ -183,4 +183,5 @@ Feito por *** ALVARO *** com IA
 Versão: 1.0.0
 =============================
 ```
+
 ``
