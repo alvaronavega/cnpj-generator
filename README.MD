@@ -106,7 +106,7 @@ Este projeto está licenciado sob a licença MIT. Você pode usar, modificar e d
 
 ✍️ Feito por
 
-=============================  
-Feito por *** ALVARO *** com IA  
+Feito por Alvaro com apoio de IA  
 Versão: 1.0.0  
-=============================
+
+
