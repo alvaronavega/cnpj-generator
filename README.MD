@@ -72,7 +72,7 @@ node generate.js [opções]
 
 ## 🧪 **Exemplos de Uso**
 
-### 1️⃣ Gerar CNPJsrão)
+### 1️⃣ Gerar CNPJs
 ```bash
 node generate.js --count 5 --output cnpjs.json
 ```
@@ -185,3 +185,4 @@ Versão: 1.0.0
 ```
 
 ``
+
